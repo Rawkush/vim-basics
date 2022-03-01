@@ -85,3 +85,5 @@ Vim has 12 different editing modes, 6 of which are variants of the 6 basic modes
     ```
 4. quit a file without saving
     ``` Press :q! ```
+
+<img src="cheatsheet.png">
